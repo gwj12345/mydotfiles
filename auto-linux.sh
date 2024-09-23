@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# cd /home/AutoGreen/
+cd /root/github/mydotfiles/
 echo $(date)>>CommitTime.txt
 git add .
 git commit -m "A commit a day."
